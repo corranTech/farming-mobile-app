@@ -23,7 +23,6 @@ The application is also designed in such a way that it will be easy to use.
 
 ## 📱 Technologies / Tools used for building this app includes:
 | Android Studio | Firebase | Kotlin | External APIs | Android OS |
-| --- | --- | --- | --- | --- |
 
 
 
