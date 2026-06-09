@@ -1,4 +1,4 @@
-# 👨‍🌾 Agri India - One stop application for Indian Farmers
+
 
 ✒️ This is an Android Application designed for our Indian farmers. 
 
